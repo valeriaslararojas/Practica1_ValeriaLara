@@ -4,7 +4,7 @@
  🌸
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/20/70/23/2070233a3bc7b7f0afbb84572e43e49e.gif" width="200"/>
+  <img src="https://i.pinimg.com/originals/20/70/23/2070233a3bc7b7f0afbb84572e43e49e.gif" width="800"/>
 </p>
 
 ---
@@ -29,5 +29,5 @@ El objetivo es representar matemáticamente el sistema de un pendulo invertido y
 ---
 
 <p align="center">
-  ✨ <img src="https://i.pinimg.com/originals/07/79/06/077906c7e60270b6eb98ce42a6b6a8c7.gif" width="200"/> 💖
+  ✨ <img src="https://i.pinimg.com/originals/07/79/06/077906c7e60270b6eb98ce42a6b6a8c7.gif" width="800"/> 💖
 </p>
